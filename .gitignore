@@ -2,7 +2,7 @@
 target/
 bin/
 .project
-.classpath
+.classpath 
 .settings/
 
 # Package Files #
